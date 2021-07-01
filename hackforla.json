@@ -1,0 +1,547 @@
+{
+    "first": 1187013600,
+    "last": 1624950000,
+    "domain": "builtwith.com",
+    "groups": [
+        {
+            "name": "payment",
+            "live": 5,
+            "dead": 5,
+            "latest": 1623852000,
+            "oldest": 1343570400,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1603177200,
+                    "oldest": 1343570400,
+                    "name": "payments-processor"
+                },
+                {
+                    "live": 1,
+                    "dead": 3,
+                    "latest": 1623852000,
+                    "oldest": 1458738000,
+                    "name": "payment-acceptance"
+                },
+                {
+                    "live": 2,
+                    "dead": 0,
+                    "latest": 1619820000,
+                    "oldest": 1555250400,
+                    "name": "currency"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1603177200,
+                    "oldest": 1589238000,
+                    "name": "checkout-buttons"
+                },
+                {
+                    "live": 2,
+                    "dead": 0,
+                    "latest": 1623826800,
+                    "oldest": 1622703600,
+                    "name": "bitcoin"
+                }
+            ]
+        },
+        {
+            "name": "ssl",
+            "live": 2,
+            "dead": 8,
+            "latest": 1624950000,
+            "oldest": 1372806000,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1568934000,
+                    "oldest": 1452303436,
+                    "name": "extended-validation"
+                },
+                {
+                    "live": 1,
+                    "dead": 3,
+                    "latest": 1624950000,
+                    "oldest": 1372806000,
+                    "name": "root-authority"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1476745200,
+                    "oldest": 1372806000,
+                    "name": "wildcard"
+                }
+            ]
+        },
+        {
+            "name": "ads",
+            "live": 1,
+            "dead": 4,
+            "latest": 1614758400,
+            "oldest": 1187013600,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1348668000,
+                    "oldest": 1343570400,
+                    "name": "ad-network"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1605081600,
+                    "oldest": 1343570400,
+                    "name": "retargeting-/-remarketing"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1369922400,
+                    "oldest": 1187013600,
+                    "name": "contextual-advertising"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1579734000,
+                    "oldest": 1555023600,
+                    "name": "demand-side-platform"
+                }
+            ]
+        },
+        {
+            "name": "analytics",
+            "live": 0,
+            "dead": 12,
+            "latest": 1605081600,
+            "oldest": 1187013600,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1605081600,
+                    "oldest": 1448582400,
+                    "name": "conversion-optimization"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1605081600,
+                    "oldest": 1482274800,
+                    "name": "conversion-tracking"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1514242800,
+                    "oldest": 1448582400,
+                    "name": "a/b-testing"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1514242800,
+                    "oldest": 1448582400,
+                    "name": "site-optimization"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1514242800,
+                    "oldest": 1448582400,
+                    "name": "personalization"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1487545200,
+                    "oldest": 1458738000,
+                    "name": "marketing-automation"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1476745200,
+                    "oldest": 1393974328,
+                    "name": "social-management"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1593903600,
+                    "oldest": 1187013600,
+                    "name": "application-performance"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1593903600,
+                    "oldest": 1187013600,
+                    "name": "visitor-count-tracking"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1593903600,
+                    "oldest": 1187013600,
+                    "name": "audience-measurement"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1453879729,
+                    "oldest": 1453879729,
+                    "name": "fraud-prevention"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1262350800,
+                    "oldest": 1192024800,
+                    "name": "mobile"
+                }
+            ]
+        },
+        {
+            "name": "framework",
+            "live": 6,
+            "dead": 3,
+            "latest": 1624518000,
+            "oldest": 1207663200,
+            "categories": [
+                {
+                    "live": 3,
+                    "dead": 0,
+                    "latest": 1624518000,
+                    "oldest": 1395356400,
+                    "name": "wordpress-theme"
+                }
+            ]
+        },
+        {
+            "name": "mapping",
+            "live": 0,
+            "dead": 2,
+            "latest": 1512082800,
+            "oldest": 1380236400,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1512082800,
+                    "oldest": 1380236400,
+                    "name": "maps"
+                }
+            ]
+        },
+        {
+            "name": "cms",
+            "live": 3,
+            "dead": 27,
+            "latest": 1624518000,
+            "oldest": 1324213200,
+            "categories": [
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1399186286,
+                    "oldest": 1380236400,
+                    "name": "financial"
+                },
+                {
+                    "live": 0,
+                    "dead": 3,
+                    "latest": 1554418800,
+                    "oldest": 1430179200,
+                    "name": "enterprise"
+                },
+                {
+                    "live": 1,
+                    "dead": 1,
+                    "latest": 1624518000,
+                    "oldest": 1324213200,
+                    "name": "open-source"
+                },
+                {
+                    "live": 1,
+                    "dead": 2,
+                    "latest": 1624518000,
+                    "oldest": 1324213200,
+                    "name": "blog"
+                }
+            ]
+        },
+        {
+            "name": "widgets",
+            "live": 14,
+            "dead": 18,
+            "latest": 1624518000,
+            "oldest": 1187013600,
+            "categories": [
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1624086000,
+                    "oldest": 1593730800,
+                    "name": "captcha"
+                },
+                {
+                    "live": 2,
+                    "dead": 3,
+                    "latest": 1624518000,
+                    "oldest": 1394409954,
+                    "name": "wordpress-plugins"
+                },
+                {
+                    "live": 4,
+                    "dead": 1,
+                    "latest": 1623481200,
+                    "oldest": 1450450710,
+                    "name": "image-provider"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1370559600,
+                    "oldest": 1294059600,
+                    "name": "feedback-forms-and-surveys"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1530572400,
+                    "oldest": 1390274100,
+                    "name": "charting"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1430556570,
+                    "oldest": 1187013600,
+                    "name": "social-sharing"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1530572400,
+                    "oldest": 1401853197,
+                    "name": "site-search"
+                },
+                {
+                    "live": 1,
+                    "dead": 1,
+                    "latest": 1624518000,
+                    "oldest": 1403046000,
+                    "name": "fonts"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1192024800,
+                    "oldest": 1187013600,
+                    "name": "bookmarking"
+                },
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1623826800,
+                    "oldest": 1622703600,
+                    "name": "login"
+                }
+            ]
+        },
+        {
+            "name": "javascript",
+            "live": 23,
+            "dead": 39,
+            "latest": 1624950000,
+            "oldest": 1187013600,
+            "categories": [
+                {
+                    "live": 2,
+                    "dead": 8,
+                    "latest": 1624518000,
+                    "oldest": 1343570400,
+                    "name": "jquery-plugin"
+                },
+                {
+                    "live": 0,
+                    "dead": 2,
+                    "latest": 1530572400,
+                    "oldest": 1384297200,
+                    "name": "animation"
+                },
+                {
+                    "live": 1,
+                    "dead": 4,
+                    "latest": 1624950000,
+                    "oldest": 1187013600,
+                    "name": "javascript-library"
+                },
+                {
+                    "live": 2,
+                    "dead": 2,
+                    "latest": 1624518000,
+                    "oldest": 1518735600,
+                    "name": "compatibility"
+                },
+                {
+                    "live": 3,
+                    "dead": 2,
+                    "latest": 1623826800,
+                    "oldest": 1364302800,
+                    "name": "ui"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1530572400,
+                    "oldest": 1509490800,
+                    "name": "charting"
+                },
+                {
+                    "live": 2,
+                    "dead": 0,
+                    "latest": 1624950000,
+                    "oldest": 1530831600,
+                    "name": "framework"
+                }
+            ]
+        },
+        {
+            "name": "media",
+            "live": 2,
+            "dead": 0,
+            "latest": 1614844800,
+            "oldest": 1510009200,
+            "categories": [
+                {
+                    "live": 2,
+                    "dead": 0,
+                    "latest": 1614844800,
+                    "oldest": 1510009200,
+                    "name": "video-players"
+                },
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1614844800,
+                    "oldest": 1599634800,
+                    "name": "online-video-platform"
+                }
+            ]
+        },
+        {
+            "name": "language",
+            "live": 15,
+            "dead": 1,
+            "latest": 1624950000,
+            "oldest": 1548198000,
+            "categories": []
+        },
+        {
+            "name": "mobile",
+            "live": 4,
+            "dead": 1,
+            "latest": 1624950000,
+            "oldest": 1415587208,
+            "categories": []
+        },
+        {
+            "name": "Web Master",
+            "live": 0,
+            "dead": 5,
+            "latest": 1518735600,
+            "oldest": 1192024800,
+            "categories": []
+        },
+        {
+            "name": "shop",
+            "live": 1,
+            "dead": 0,
+            "latest": 1624518000,
+            "oldest": 1527721200,
+            "categories": [
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1624518000,
+                    "oldest": 1527721200,
+                    "name": "non-platform"
+                }
+            ]
+        },
+        {
+            "name": "copyright",
+            "live": 0,
+            "dead": 3,
+            "latest": 1593903600,
+            "oldest": 1488582000,
+            "categories": []
+        },
+        {
+            "name": "Web Server",
+            "live": 3,
+            "dead": 6,
+            "latest": 1624950000,
+            "oldest": 1294059600,
+            "categories": []
+        },
+        {
+            "name": "hosting",
+            "live": 7,
+            "dead": 4,
+            "latest": 1624950000,
+            "oldest": 1345730400,
+            "categories": [
+                {
+                    "live": 1,
+                    "dead": 1,
+                    "latest": 1618210800,
+                    "oldest": 1379286000,
+                    "name": "vps-hosting"
+                },
+                {
+                    "live": 3,
+                    "dead": 2,
+                    "latest": 1624690800,
+                    "oldest": 1379286000,
+                    "name": "us-hosting"
+                },
+                {
+                    "live": 1,
+                    "dead": 1,
+                    "latest": 1624950000,
+                    "oldest": 1345730400,
+                    "name": "dedicated-hosting"
+                },
+                {
+                    "live": 0,
+                    "dead": 1,
+                    "latest": 1376866800,
+                    "oldest": 1345730400,
+                    "name": "german-hosting"
+                },
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1624950000,
+                    "oldest": 1389222000,
+                    "name": "canadian-hosting"
+                },
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 1624950000,
+                    "oldest": 1389222000,
+                    "name": "french-hosting"
+                },
+                {
+                    "live": 1,
+                    "dead": 0,
+                    "latest": 
